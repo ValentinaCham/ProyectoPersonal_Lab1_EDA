@@ -1,1 +1,2 @@
-# Aqui irá mi informe de laboratorio
+#CURSO EDA 
+## Bienvenida al curso
